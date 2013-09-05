@@ -30,7 +30,7 @@ func bundle() {
 	removeAssets()
 	copyAssets()
 	bundleAssets()
-	compressAssets()
+	// compressAssets()
 	fingerPrintAssets()
 }
 
